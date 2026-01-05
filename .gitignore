@@ -9,3 +9,7 @@
 *.id1
 *.id2
 *.til
+
+# macOS system files
+.DS_Store
+._*
